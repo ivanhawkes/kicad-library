@@ -408,7 +408,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "5e0ed273-c765-4bb1-a2f3-51f717a60ae8")
 	)
-	(model "${MY_LIBRARY}/general/00_General.pretty/MCP23017-E-SO.kicad_mod"
+	(model "${MY_LIBRARY}/general/general.3d/MCP23017-E_SO.step"
 		(offset
 			(xyz 0 0 0)
 		)

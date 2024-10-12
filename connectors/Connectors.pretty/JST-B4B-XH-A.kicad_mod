@@ -262,7 +262,7 @@
 		(remove_unused_layers no)
 		(uuid "196b913a-96d4-44e6-8d90-4fc1b53fa985")
 	)
-	(model "C:/Users/ivanh/projects/kicad-library/connectors/00_Connectors.3d/JST-B4B-XH-A.step"
+	(model "${MY_LIBRARY}/connectors/connectors.3d/JST-B4B-XH-A.step"
 		(offset
 			(xyz -3.8 0.5 0)
 		)
