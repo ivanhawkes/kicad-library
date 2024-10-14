@@ -1,0 +1,236 @@
+(footprint "Screw-2P-5.08-1729128"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.016 -9.398 0)
+		(layer "F.SilkS")
+		(uuid "7a42a51c-7b10-4825-93e5-a0add4f55ae4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PHOENIX_1729128"
+		(at 4.826 2.794 0)
+		(layer "F.Fab")
+		(uuid "2d8c0470-2bdb-45f6-8c45-f79f99d51c44")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "634cc392-b3b5-447e-ba63-be8a506ba48f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36ee7e86-74f1-4280-b43b-3b45c7cacd1a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f5fa2e1-1dcb-42cd-8b67-5cf293980843")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -8.15)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c908fd9b-a408-4d01-81f5-acdf82e5c72b")
+	)
+	(fp_line
+		(start 0 0)
+		(end 10.16 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3b373a75-4af0-4deb-acd8-79e3db137b84")
+	)
+	(fp_line
+		(start 10.16 -8.15)
+		(end 0 -8.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d213c3ea-5664-43a3-9c50-a7fdc7719d66")
+	)
+	(fp_line
+		(start 10.16 0)
+		(end 10.16 -8.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "805a28b0-c130-4c14-b739-c42f06d53ed8")
+	)
+	(fp_circle
+		(center -1.1 -4.05)
+		(end -0.1 -4.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "ea9a7d23-c9f8-4a4e-9f6c-464776e9de38")
+	)
+	(fp_line
+		(start -0.82 -8.4)
+		(end -0.82 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b1cecb77-585d-47ae-ae67-a5214a691d62")
+	)
+	(fp_line
+		(start -0.82 0.25)
+		(end 10.41 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "077838c9-f725-4c3f-909b-6200844aa822")
+	)
+	(fp_line
+		(start 10.41 -8.4)
+		(end -0.82 -8.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "74f1c5c0-9327-49e0-99ca-b45f837be024")
+	)
+	(fp_line
+		(start 10.41 0.25)
+		(end 10.41 -8.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e9949d42-552a-4062-aaf9-0a037e4355c7")
+	)
+	(fp_line
+		(start 0 -8.15)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "15f3d992-e97e-4d46-bc02-d9ffb8fe763e")
+	)
+	(fp_line
+		(start 0 0)
+		(end 10.16 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f9fbdf1e-74c1-48e5-97d2-97cc3a03f04e")
+	)
+	(fp_line
+		(start 10.16 -8.15)
+		(end 0 -8.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d0ec4705-09d6-486e-9cdd-bf4417d0de7d")
+	)
+	(fp_line
+		(start 10.16 0)
+		(end 10.16 -8.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "11e83fbb-7bd7-49c4-aebb-b3f4554f37a3")
+	)
+	(fp_circle
+		(center -1.1 -4.05)
+		(end -1 -4.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "3af3a5c7-14d1-46fe-8506-bd8392bdc17c")
+	)
+	(pad "1" thru_hole rect
+		(at 2.54 -4.05)
+		(size 1.95 1.95)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "0ab43e0e-82c6-426c-b577-5c009028482b")
+	)
+	(pad "2" thru_hole circle
+		(at 7.62 -4.05)
+		(size 1.95 1.95)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a674e174-5597-418a-bc08-8ffe5844c355")
+	)
+	(model "${MY_LIBRARY}/connectors/connectors.3d/1729128.step"
+		(offset
+			(xyz 5 4 5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

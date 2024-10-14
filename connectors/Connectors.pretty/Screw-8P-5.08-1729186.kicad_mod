@@ -106,13 +106,13 @@
 		(uuid "a2567ad9-6351-47b9-b871-8078fcaacbd8")
 	)
 	(fp_circle
-		(center -5.842 0)
-		(end -5.792 0)
+		(center -4.318 0)
+		(end -3.318 0)
 		(stroke
-			(width 1.5)
+			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill solid)
 		(layer "F.SilkS")
 		(uuid "7efa048e-c7c4-431e-ab39-1e6f9e020426")
 	)
@@ -273,7 +273,7 @@
 	)
 	(model "${MY_LIBRARY}/connectors/connectors.3d/1729186.step"
 		(offset
-			(xyz -3.180000019 -3.479999967 1.129999978)
+			(xyz -3.18 -3.48 0.13)
 		)
 		(scale
 			(xyz 1 1 1)
