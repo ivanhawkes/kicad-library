@@ -276,7 +276,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "36819c78-2d10-4950-bb66-b2c7f18c62a7")
 	)
-	(model "C:/Users/ivanh/projects/kicad-library/connectors/00_Connectors.3d/JST-BM04B-SRSS-TB.step"
+	(model "${MY_LIBRARY}/connectors/connectors.3d/JST-BM04B-SRSS-TB.step"
 		(offset
 			(xyz 0 0 0)
 		)
